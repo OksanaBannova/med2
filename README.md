@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/kyjvrxl8xjqx3l7g?svg=true)](https://ci.appveyor.com/project/OksanaBannova/media)
+[![Build status](https://ci.appveyor.com/api/projects/status/6hade8n3ag14hb5f?svg=true)](https://ci.appveyor.com/project/OksanaBannova/med2)
 
 [GitHub Pages]()
 
